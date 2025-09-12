@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img src="screenshot.png" alt="MindMate UI Screenshot" width="600"/>
+   <img src="screenshots/screenshot.png" alt="MindMate UI Screenshot" width="600"/>
 </div>
 
 # 🧠 MINDMATE - AI-Powered Memory Assistant
