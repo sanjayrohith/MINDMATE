@@ -1,3 +1,8 @@
+
+<div align="center">
+   <img src="screenshot.png" alt="MindMate UI Screenshot" width="600"/>
+</div>
+
 # 🧠 MINDMATE - AI-Powered Memory Assistant
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
